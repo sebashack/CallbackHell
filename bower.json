@@ -1,0 +1,24 @@
+{
+  "name": "psHttp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.1.0",
+    "purescript-console": "^2.0.0",
+    "purescript-functions": "^2.0.0",
+    "purescript-lists": "^3.2.1",
+    "purescript-parallel": "^2.1.0",
+    "purescript-refs": "^2.0.0",
+    "purescript-strings": "^2.0.2",
+    "purescript-transformers": "^2.0.2",
+    "purescript-foreign": "^3.0.1",
+    "purescript-eff": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  }
+}
